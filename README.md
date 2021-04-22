@@ -61,3 +61,6 @@ GUI elements:
 - IRL Time
 - Uptime (How long the Client has been running)
 - Connected Time (When used with -goto on Complex, shows time on said Server)
+
+# Download
+Simply click [here](http://dl.blameskittles.com) to download the file. Click [here](https://www.virustotal.com/gui/file/20408e60b501971a5ccc971ee595b83767c18d408fb4e031b37bc6b00939fc2d/details) to see a VirusTotal scan of the file
