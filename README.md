@@ -47,3 +47,17 @@ Commands for Anywhere other than Complex:
 
 
 
+## Non Command/Cheaty stuff:
+
+GUI elements: 
+- Current server (Complex, used with -goto)
+- Current User
+- Item in Hand
+- Durability of said Item
+- World Info:
+  - WorldType
+  - Biome
+- Coordinates
+- IRL Time
+- Uptime (How long the Client has been running)
+- Connected Time (When used with -goto on Complex, shows time on said Server)
