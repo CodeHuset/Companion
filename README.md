@@ -32,6 +32,10 @@ Commands that work everywhere are prefixed with `-`. Commands that will not work
 
 `-remind <duration> <message>` - Set a reminder for a duration. Duration must be in a format of "1H32M" (No spaces)
 
+`{p1}` can be used to be lazy, works with any pokemon number slot
+
+`{hotbar}` will display your hotbar contents similar to `{team}` for Pokemon
+
 
 Commands for Anywhere other than Complex:
 
@@ -63,4 +67,4 @@ GUI elements:
 - Connected Time (When used with -goto on Complex, shows time on said Server)
 
 # Download
-Simply click [here](http://dl.blameskittles.com) to download the file. Click [here](https://www.virustotal.com/gui/file/20408e60b501971a5ccc971ee595b83767c18d408fb4e031b37bc6b00939fc2d/details) to see a VirusTotal scan of the file
+Simply click [here](https://cdn.discordapp.com/attachments/831622667840389191/836255767258333214/Companion.jar) to download the file. Click [here](https://www.virustotal.com/gui/file/20408e60b501971a5ccc971ee595b83767c18d408fb4e031b37bc6b00939fc2d/details) to see a VirusTotal scan of the file
