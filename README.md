@@ -67,4 +67,4 @@ GUI elements:
 - Connected Time (When used with -goto on Complex, shows time on said Server)
 
 # Download
-Simply click [here](https://cdn.discordapp.com/attachments/831622667840389191/836255767258333214/Companion.jar) to download the file. Click [here](https://www.virustotal.com/gui/file/20408e60b501971a5ccc971ee595b83767c18d408fb4e031b37bc6b00939fc2d/details) to see a VirusTotal scan of the file
+Simply click [here](https://cdn.discordapp.com/attachments/831622667840389191/836255767258333214/Companion.jar) to download the file. Click [here](https://www.virustotal.com/gui/file/c9913a0287c05a28ded315f7de9e7b94a6e4bde938dfaf51aeafe47db43f7e8a/details) to see a VirusTotal scan of the file
